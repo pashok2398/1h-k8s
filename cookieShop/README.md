@@ -14,4 +14,4 @@
 7. Get any `node` IP address.
     1. `kubectl get nodes`
 8. Open your browser and go to:
-    1. http:\\_nodeIP:nodePort_
+    1. http://_nodeIP:nodePort_
